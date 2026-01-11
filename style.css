@@ -34,10 +34,17 @@ header h1 {
   margin: 0;
   font-size: 32px;
 }
-
+/*
 header p {
   margin: 2px 0 0;
   color: #666;
+}
+*/
+
+header p {
+  margin: 5px 0 0;
+  /* color: #666; */
+  color: #2A7DF0;
 }
 
 footer {
